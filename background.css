@@ -1,0 +1,21 @@
+.item{
+    display: flex;
+    margin-bottom: 20px;
+}
+.item p{
+    text-align: justify;
+    flex: 1;
+
+}
+
+.web{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-width: 1200px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

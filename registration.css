@@ -1,0 +1,23 @@
+form{
+    background-color: blue;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+}
+.first{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+label{
+    width: 40px;
+    margin-right: 30px;
+}
+input{
+    width: 70%;
+    margin-right: 10px;
+}
+button{
+    background-color: red;
+    width: 800px;
+}

@@ -1,0 +1,20 @@
+.course{
+    padding: 20px;
+    margin: 20px;
+    margin-left: 0px;
+}
+.full-stack{
+    background-color:red;
+}
+.security{
+    background-color: greenyellow;
+}
+.data-science{
+    background-color: blue;
+}
+.full-stack:hover{background-color: red} .security:hover{background-color: greenyellow} .data-science{background-color: blue}
+
+.my-courses{
+    display: flex;
+}
+

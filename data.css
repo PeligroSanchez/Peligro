@@ -1,0 +1,13 @@
+button{
+    background-color:blue;
+}
+legend{
+    font-weight: bold;
+}
+form{
+    text-align: center;
+    background-color: blue;
+    width: 50%;
+    margin-left: 300px;
+
+}
